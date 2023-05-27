@@ -1,0 +1,8 @@
+main: net.jahcraft.jahnnouncer.main.Main
+name: Jahnnouncer
+version: 1.0.0
+author: Jamboxman5
+api-version: 1.19
+depend:
+commands:
+  
